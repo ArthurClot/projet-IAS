@@ -22,6 +22,7 @@ also
 although
 always
 am
+amp
 among
 amongst
 an
@@ -37,6 +38,7 @@ anyway
 anyways
 anywhere
 apart
+app
 appear
 appreciate
 appropriate
@@ -164,6 +166,7 @@ gets
 getting
 given
 gives
+gmt
 go
 goes
 going
@@ -329,6 +332,7 @@ own
 particular
 particularly
 pc
+pcs
 per
 perhaps
 placed
@@ -375,6 +379,7 @@ sensible
 sent
 serious
 seriously
+settings
 seven
 several
 shall
@@ -398,6 +403,7 @@ sorry
 specified
 specify
 specifying
+st
 still
 sub
 such
