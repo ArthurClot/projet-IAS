@@ -336,7 +336,6 @@ pcs
 per
 perhaps
 placed
-play
 please
 plus
 possible
@@ -490,7 +489,6 @@ was
 wasn
 way
 we
-welcome
 well
 went
 were
